@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Tiago Andrade",
+        "cpf": "59078835028",
+        "email": "teste@teste.com",
+        "whatsapp": "021911111111",
+        "address": {
+            "postalcode": "25956035",
+            "number": "100",
+            "details": "casa A",
+            "street": "Rua Otávio Strucchi",
+            "district": "São Pedro",
+            "city_state": "Teresópolis/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Tiago Andrade",
+        "cpf": "0123",
+        "email": "teste@teste.com",
+        "whatsapp": "021911111111",
+        "address": {
+            "postalcode": "25956035",
+            "number": "100",
+            "details": "casa A",
+            "street": "Rua Otávio Strucchi",
+            "district": "São Pedro",
+            "city_state": "Teresópolis/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Tiago Andrade",
+        "cpf": "59078835028",
+        "email": "teste.com",
+        "whatsapp": "021911111111",
+        "address": {
+            "postalcode": "25956035",
+            "number": "100",
+            "details": "casa A",
+            "street": "Rua Otávio Strucchi",
+            "district": "São Pedro",
+            "city_state": "Teresópolis/RJ"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
